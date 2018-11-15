@@ -16,18 +16,3 @@ function inc(a) {
 function dec(a) {
   return a - 1
 }
-function makeInt(a) {
-  return a
-}
-function makeInt('0x2328') {
-  return 0
-}
-function parseInt('sldkjflksjf') {
-  return true
-}
-function preserveDecimal('2.222') {
-  return 2.222
-}
-function parseFloat('sldkjflksjf') {
-  return true
-}
