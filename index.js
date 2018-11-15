@@ -19,9 +19,15 @@ function dec(a) {
 function makeInt(a) {
   return a
 }
-funcion makeInt(0x2328) {
+function makeInt(0x2328) {
   return 0
 }
 function makeInt(sldkjflksjf) {
+  return true
+}
+function preserveDecimal(2.222) {
+  return 2.222
+}
+function preserveDecimal(sldkjflksjf) {
   return true
 }
