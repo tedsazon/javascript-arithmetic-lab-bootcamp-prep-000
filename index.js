@@ -19,6 +19,6 @@ function dec(a) {
 function makeInt(a) {
   return a
 }
-function parseInt('0x2328', 10) {
+function parseInt('0x2328') {
   return 0
 }
