@@ -25,7 +25,7 @@ function makeInt('0x2328') {
 function makeInt('sldkjflksjf') {
   return true
 }
-function preserveDecimal(2.222) {
+function preserveDecimal('2.222') {
   return 2.222
 }
 function preserveDecimal('sldkjflksjf') {
