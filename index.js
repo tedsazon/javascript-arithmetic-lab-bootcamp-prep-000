@@ -19,3 +19,6 @@ function dec(a) {
 function makeInt(a) {
   return a
 }
+funcion makeInt(0x2328) {
+  return 0
+}
