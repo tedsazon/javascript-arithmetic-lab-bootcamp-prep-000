@@ -22,3 +22,6 @@ function makeInt(a) {
 funcion makeInt(0x2328) {
   return 0
 }
+function makeInt(sldkjflksjf) {
+  return true
+}
