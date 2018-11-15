@@ -16,3 +16,18 @@ function inc(a) {
 function dec(a) {
   return a - 1
 }
+function makeInt(a) {
+  return a
+}
+function parseInt('0x2328', 10) {
+  return 0
+}
+function parseInt('sldkjflksjf', 10) {
+  return true
+}
+function preserveDecimal('2.222'){
+  return 2.222
+}
+function parseInt('sldkjflksjf', 10) {
+  return true
+}
