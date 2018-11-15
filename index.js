@@ -1,33 +1,24 @@
 function add(a, b) {
-  return a + b
+  return a + b;
 }
 function subtract(a, b) {
-  return a - b
+  return a - b;
 }
 function multiply(a, b) {
-  return a * b
+  return a * b;
 }
 function divide(a, b) {
-  return a / b
+  return a / b;
 }
 function inc(a) {
-  return a + 1
+  return a += 1;
 }
 function dec(a) {
-  return a - 1
+  return a -= 1;
 }
 function makeInt(a) {
-  return a
+  return parseInt(a, 10);
 }
-function parseInt('0x2328', 10) {
-  return 0
-}
-function isNan('sldkjflksjf') {
-  return true
-}
-function preserveDecimal('2.222') {
-  return 2.222
-}
-function isNan('sldkjflksjf') {
-  return true
+function preserveDecimal(n) {
+  return parseFloat(n)
 }
