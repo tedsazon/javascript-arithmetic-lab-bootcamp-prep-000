@@ -22,12 +22,3 @@ function makeInt(a) {
 function parseInt('0x2328', 10) {
   return 0
 }
-function isNaN('sldkjflksjf') {
-  return true
-}
-function preserveDecimal('2.222') {
-  return 2.222
-}
-function isNaN('sldkjflksjf') {
-  return true
-}
